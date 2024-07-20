@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|c:\\users\\jayden.pearce\\tales\\journalentries\\journaltales\\publish\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|solutionrelative:journaltales\\publish\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|c:\\users\\jayden.pearce\\tales\\journalentries\\journaltales\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|solutionrelative:journaltales\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|c:\\users\\jayden.pearce\\tales\\journalentries\\journaltales\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|solutionrelative:journaltales\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -136,19 +128,6 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\publish\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "JournalTales\\publish\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\publish\\wwwroot\\index.html",
-              "RelativeToolTip": "JournalTales\\publish\\wwwroot\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-20T12:13:16.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "JournalTales\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\wwwroot\\index.html",
@@ -160,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Program.cs",
               "RelativeDocumentMoniker": "JournalTales\\Program.cs",
@@ -173,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\App.razor",
               "RelativeDocumentMoniker": "JournalTales\\App.razor",
@@ -182,19 +161,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-20T11:51:28.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "JournalTales\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Pages\\Index.razor",
-              "RelativeToolTip": "JournalTales\\Pages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T11:51:17.584Z",
               "EditorCaption": ""
             }
           ]

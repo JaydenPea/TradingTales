@@ -1,7 +1,0 @@
-C:\Users\jayden.pearce\Tales\JournalEntries\publish\JournalEntries.exe
-C:\Users\jayden.pearce\Tales\JournalEntries\publish\appsettings.Development.json
-C:\Users\jayden.pearce\Tales\JournalEntries\publish\appsettings.json
-C:\Users\jayden.pearce\Tales\JournalEntries\publish\JournalEntries.dll
-C:\Users\jayden.pearce\Tales\JournalEntries\publish\JournalEntries.deps.json
-C:\Users\jayden.pearce\Tales\JournalEntries\publish\JournalEntries.runtimeconfig.json
-C:\Users\jayden.pearce\Tales\JournalEntries\publish\JournalEntries.pdb
