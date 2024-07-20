@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\bin\\Release\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\obj\\Release\\net7.0\\compressed\\u1zsy3gqoi.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.JournalTales.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.JournalTales.props",
+      "PackagePath": "build\\JournalTales.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.JournalTales.props",
+      "PackagePath": "buildMultiTargeting\\JournalTales.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.JournalTales.props",
+      "PackagePath": "buildTransitive\\JournalTales.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
