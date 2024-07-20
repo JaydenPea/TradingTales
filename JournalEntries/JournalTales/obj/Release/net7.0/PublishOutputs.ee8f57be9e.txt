@@ -1,0 +1,3 @@
+C:\Users\jayden.pearce\Tales\JournalEntries\JournalTales\wwwroot\publish\web.config
+C:\Users\jayden.pearce\Tales\JournalEntries\JournalTales\wwwroot\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\jayden.pearce\Tales\JournalEntries\JournalTales\wwwroot\web.config

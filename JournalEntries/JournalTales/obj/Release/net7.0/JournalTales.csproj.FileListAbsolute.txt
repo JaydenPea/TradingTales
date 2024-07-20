@@ -823,3 +823,5 @@ C:\Users\jayden.pearce\Tales\JournalEntries\JournalTales\obj\Release\net7.0\Jour
 C:\Users\jayden.pearce\Tales\JournalEntries\JournalTales\obj\Release\net7.0\refint\JournalTales.dll
 C:\Users\jayden.pearce\Tales\JournalEntries\JournalTales\obj\Release\net7.0\JournalTales.pdb
 C:\Users\jayden.pearce\Tales\JournalEntries\JournalTales\obj\Release\net7.0\ref\JournalTales.dll
+C:\Users\jayden.pearce\Tales\JournalEntries\JournalTales\bin\Release\net7.0\publish\web.config
+C:\Users\jayden.pearce\Tales\JournalEntries\JournalTales\bin\Release\net7.0\publish\wwwroot\_framework\blazor.boot.json
