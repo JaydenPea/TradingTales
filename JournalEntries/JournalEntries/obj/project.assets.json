@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayden.pearce\\JournalEntries\\JournalEntries\\JournalEntries\\JournalEntries.csproj",
+      "projectUniqueName": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalEntries\\JournalEntries.csproj",
       "projectName": "JournalEntries",
-      "projectPath": "C:\\Users\\jayden.pearce\\JournalEntries\\JournalEntries\\JournalEntries\\JournalEntries.csproj",
+      "projectPath": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalEntries\\JournalEntries.csproj",
       "packagesPath": "C:\\Users\\jayden.pearce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jayden.pearce\\JournalEntries\\JournalEntries\\JournalEntries\\obj\\",
+      "outputPath": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalEntries\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
