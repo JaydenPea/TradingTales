@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|solutionrelative:journaltales\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|c:\\users\\jayden.pearce\\tales\\journalentries\\journaltales\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|solutionrelative:journaltales\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|c:\\users\\jayden.pearce\\tales\\journalentries\\journaltales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|solutionrelative:journaltales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 26,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Bookmark",
@@ -123,19 +127,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "JournalTales\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\wwwroot\\index.html*",
+              "RelativeToolTip": "JournalTales\\wwwroot\\index.html*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-20T11:57:56.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Program.cs",
               "RelativeDocumentMoniker": "JournalTales\\Program.cs",
               "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Program.cs",
               "RelativeToolTip": "JournalTales\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T11:51:36.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\App.razor",
               "RelativeDocumentMoniker": "JournalTales\\App.razor",
@@ -152,9 +169,9 @@
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "JournalTales\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Pages\\Index.razor",
-              "RelativeToolTip": "JournalTales\\Pages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Pages\\Index.razor*",
+              "RelativeToolTip": "JournalTales\\Pages\\Index.razor*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-20T11:51:17.584Z",
               "EditorCaption": ""
