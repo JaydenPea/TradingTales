@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|c:\\users\\jayden.pearce\\tales\\journalentries\\journaltales\\publish\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|solutionrelative:journaltales\\publish\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|c:\\users\\jayden.pearce\\tales\\journalentries\\journaltales\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{01D574CF-55A0-48E9-B1FA-A48F5AACAF51}|JournalTales\\JournalTales.csproj|solutionrelative:journaltales\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -125,13 +129,30 @@
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\publish\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "JournalTales\\publish\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\publish\\wwwroot\\index.html",
+              "RelativeToolTip": "JournalTales\\publish\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-20T12:13:16.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "JournalTales\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\wwwroot\\index.html*",
-              "RelativeToolTip": "JournalTales\\wwwroot\\index.html*",
+              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\wwwroot\\index.html",
+              "RelativeToolTip": "JournalTales\\wwwroot\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-07-20T11:57:56.215Z",
@@ -139,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Program.cs",
               "RelativeDocumentMoniker": "JournalTales\\Program.cs",
@@ -152,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\App.razor",
               "RelativeDocumentMoniker": "JournalTales\\App.razor",
@@ -165,12 +186,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "JournalTales\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Pages\\Index.razor*",
-              "RelativeToolTip": "JournalTales\\Pages\\Index.razor*",
+              "ToolTip": "C:\\Users\\jayden.pearce\\Tales\\JournalEntries\\JournalTales\\Pages\\Index.razor",
+              "RelativeToolTip": "JournalTales\\Pages\\Index.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-20T11:51:17.584Z",
